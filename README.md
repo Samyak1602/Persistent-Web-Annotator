@@ -2,6 +2,10 @@
 
 A Chrome Extension built with React, Vite, and TailwindCSS that allows you to add persistent annotations to any webpage. All data is stored locally using `chrome.storage.local` - no backend required!
 
+## 📹 Demo Video
+
+Watch the extension in action: [Demo Video](https://drive.google.com/file/d/1XLkInuJfQ5WXwfX6-tYeXbJOcJ5ZMAR9/view?usp=sharing)
+
 ## Features
 
 - **Context Menu Integration**: Right-click on selected text and choose "Add ContextMemo" to create a note
